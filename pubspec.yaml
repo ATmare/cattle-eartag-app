@@ -61,7 +61,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/VVK_newDesign.svg
     - assets/images/VVK_newDesignBlank.svg
     - assets/images/svg_cow.png
     - assets/images/icon_foreground_no_shadow_432x432.png

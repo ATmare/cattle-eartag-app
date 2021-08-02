@@ -23,4 +23,13 @@ Folgende Datein sind selbst einzufügen, um die App mit Firebase zu verbinden:
 
 Aus rechtlichlichen Gründen kann das Blanko Formular des Viehverkehrsscheins nicht mitgeliefert werden.
 
+## iOS Look and Feel
 
+<img src="screenshots/01_login_and_add_animal.gif" height="480px" > 
+<img src="screenshots/02_dd_animal_via_gallery.gif" height="480px" > 
+<img src="screenshots/03_edit_animal.gif" height="480px" > 
+<img src="screenshots/04_addPerson.gif" height="480px" > 
+<img src="screenshots/05_changeTransport.gif" height="480px" >
+<img src="screenshots/06_completeDeliveryNote.gif" height="480px" >
+<img src="screenshots/07_loadOldSchein.gif" height="480px" >
+<img src="screenshots/08_deleteAllPersons.gif" height="480px" >
