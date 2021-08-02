@@ -20,6 +20,15 @@ The following files have to be provided by you:
 - For Android Application: android -> app -> google-service.json (To connect Android app with Firebase)
 - Due to legal restrictions the form for the delivery note can not be provided. The created PDF will therefore differ from the PDF shown in the GIFs. 
 
+## Main features
+- Recognize text in images (Google ML Kit)
+- Recognize barcodes in images (Google ML Kit)
+- User authentication and user management (Firebase Authentication)
+- Persist data in NoSQL cloud database (Cloud Firestore)
+- Take images from camera or gallery
+- Create and Preview PDF document 
+- Share PDF document
+
 ## iOS Look and Feel
 <img src="screenshots/01_login_and_add_animal.gif" height="420px" > <img src="screenshots/02_dd_animal_via_gallery.gif" height="420px" > <img src="screenshots/03_edit_animal.gif" height="420px" > 
 <img src="screenshots/04_addPerson.gif" height="420px" > <img src="screenshots/05_changeTransport.gif" height="420px" > <img src="screenshots/06_completeDeliveryNote.gif" height="420px" >
