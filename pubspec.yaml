@@ -1,0 +1,72 @@
+name: object_detection
+description: A Flutter Project to detect cattle ear tags and create delivery notes.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Integration
+  firebase_core: ^1.1.0
+  firebase_auth: ^1.1.2
+  cloud_firestore: ^1.0.7
+
+  google_ml_vision: ^0.0.5
+  path_provider: ^2.0.1
+  provider: ^5.0.0
+  path: ^1.8.0
+  share: ^2.0.1
+  flutter_secure_storage: 4.2.0
+  pull_to_refresh: ^2.0.0
+  filesystem_picker: ^1.0.4
+  permission_handler: ^7.1.0
+  image_picker: ^0.7.4
+  image_cropper: ^1.4.0
+  string_similarity: ^2.0.0
+
+  direct_select_flutter: ^1.1.0
+  flutter_form_builder: ^6.0.0
+  dropdown_search: ^0.5.0
+  flutter_typeahead: ^3.1.1
+  datetime_picker_formfield: ^2.0.0
+  flutter_picker: ^2.0.1
+  flutter_chips_input: ^1.10.0
+  auto_size_text: ^2.1.0
+
+  pdf_render: ^1.0.8
+  pdf: ^3.3.0
+
+  flutter_launcher_icons: ^0.9.0
+  intl: ^0.17.0
+  enum_to_string: ^2.0.1
+  cupertino_icons: ^1.0.2
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon_all_432x432.png"
+  adaptive_icon_foreground: "assets/images/icon_foreground_432x432.png"
+  adaptive_icon_background: "assets/images/icon_background_432x432.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/VVK_newDesign.svg
+    - assets/images/VVK_newDesignBlank.svg
+    - assets/images/svg_cow.png
+    - assets/images/icon_foreground_no_shadow_432x432.png
+
+  fonts:
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/CustomIcons.ttf
