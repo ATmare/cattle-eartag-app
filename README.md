@@ -25,3 +25,11 @@ The following files have to be provided by you:
 <img src="screenshots/01_login_and_add_animal.gif" height="420px" > <img src="screenshots/02_dd_animal_via_gallery.gif" height="420px" > <img src="screenshots/03_edit_animal.gif" height="420px" > 
 <img src="screenshots/04_addPerson.gif" height="420px" > <img src="screenshots/05_changeTransport.gif" height="420px" > <img src="screenshots/06_completeDeliveryNote.gif" height="420px" >
 <img src="screenshots/07_loadOldSchein.gif" height="420px" > <img src="screenshots/08_deleteAllPersons.gif" height="420px" >
+
+## Android Look and Feel
+
+<img src="screenshots/Screenshot_2021-05-22-21-01-42-248.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-06-23-442.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-07-12-558.jpg" height="420px" >
+<img src="screenshots/Screenshot_2021-05-22-21-09-23-218.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-10-33-846.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-11-04-553.jpg" height="420px" >
+<img src="screenshots/Screenshot_2021-05-22-21-19-47-487.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-34-22-146.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-34-52-131.jpg" height="420px" >
+<img src="screenshots/Screenshot_2021-05-22-21-37-11-50.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-39-58-016.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-40-14-174ion.jpg" height="420px" >
+<img src="screenshots/Screenshot_2021-05-22-21-43-18-692_android.jpg" height="420px" > <img src="screenshots/Screenshot_2021-05-22-21-43-31-330.jpg" height="420px" > <img src="screenshots/Screenshot_2021-06-18-13-12-36-157.jpg" height="420px" >
