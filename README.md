@@ -1,4 +1,4 @@
-# Applikation to create delivery notes for cattles in Dart/Flutter
+# Application to create delivery notes for cattles in Dart/Flutter
 
 In Austria it is required to carry along a specific delivery note called Viehverkehrsschein
 during the transportation of cattles. Such a document summarizes the relevant
@@ -13,7 +13,7 @@ Furthermore, information concerning the trading partners can be managed and
 delivery notes can be shared and exported in PDF format. The application is
 implemented in Dart and uses the mobile UI framework flutter.
 
-## Hinweis
+## Important notes 
 
 The following files have to be provided by you:
 - For iOS Application: ios -> GoogleService-Info.plist (To connect iOS app with Firebase)
