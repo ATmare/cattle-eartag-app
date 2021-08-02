@@ -1,27 +1,24 @@
-# Applikation zur Erstellung von Viehverkehrsscheinen in Dart/Flutter
+# Applikation to create delivery notes for cattles in Dart/Flutter
 
-Bei der Beförderung von Rindern ist es in Österreich erforderlich, einen ausgedruckten
-Viehverkehrsschein im Transportfahrzeug mitzuführen, in dem die
-wesentlichen Angaben zum Transport und zu den beförderten Tieren zusammengefasst
-werden. Das Projekt befasst sich damit, den Prozess zur
-Erstellung dieses Begleitdokuments zu vereinfachen und zu automatisieren. Gezeigt
-wird die Entwicklung einer Smartphone-Applikation für Android- und iOSGeräte,
-die das Einpflegen der erforderlichen Daten erleichtert und dabei hilft,
-Übertragungsfehler beim Ausfüllen eines solchen Lieferscheins zu vermeiden. Der
-Funktionsumfang der Anwendung umfasst das Auslesen von Ohrmarken-Nummern
-aus Bilddateien mittels Texterkennung und das Beziehen von Tierdaten aus einer
-Rinderdatenbank. Des Weiteren können Handelspartner verwaltet und Lieferscheine
-im PDF-Format erstellt und anschließend exportiert werden. Die Realisierung
-der Applikation erfolgt in der Programmiersprache Dart unter Verwendung
-des Mobile UI Frameworks Flutter.
+In Austria it is required to carry along a specific delivery note called Viehverkehrsschein
+during the transportation of cattles. Such a document summarizes the relevant
+data of the transported animals as well as further transportation details.
+The focus of this thesis is to simplify and automate the process of producing such
+an accompanying delivery note. It demonstrates the development of a smartphone
+application for android and iOS devices, which aims at facilitating the
+error-free and uncomplicated filling of the form. The function scope of the application
+includes the extraction of cattle ear tag IDs from images by the use
+of text recognition techniques and the fetching of animal data from a database.
+Furthermore, information concerning the trading partners can be managed and
+delivery notes can be shared and exported in PDF format. The application is
+implemented in Dart and uses the mobile UI framework flutter.
 
 ## Hinweis
 
-Folgende Datein sind selbst einzufügen, um die App mit Firebase zu verbinden: 
-- Für iOS Applikation: ios -> GoogleService-Info.plist
-- Für Android Applikation: android -> app -> google-service.json
-
-Aus rechtlichlichen Gründen kann das Blanko Formular des Viehverkehrsscheins nicht mitgeliefert werden.
+The following files have to be provided by you:
+- For iOS Application: ios -> GoogleService-Info.plist (To connect iOS app with Firebase)
+- For Android Application: android -> app -> google-service.json (To connect Android app with Firebase)
+- Due to legal restrictions the form for the delivery note can not be provided. The created PDF will therefore differ from the PDF shown in the GIFs. 
 
 ## iOS Look and Feel
 
